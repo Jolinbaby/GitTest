@@ -1,0 +1,4 @@
+repository "Git2@ssl://jolin0111@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1292155168" 
+     
